@@ -1,6 +1,6 @@
 const Home =()=>{
   return <>
-  I am a HOme Page
+  I am a Home Page
   </>
 }
 
