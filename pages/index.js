@@ -5,7 +5,7 @@ const Home =()=>{
   I am a billionare
   I am the richest person in the world
 yesssss
-hiii
+hiiifsfd
   </>
 }
 
